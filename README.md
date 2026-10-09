@@ -11,3 +11,6 @@ A simple script to convert a YouTube video in a mp3 file
 
 # ⚠ Disclaimer
 This app is an illustrative support for a python script and intended for educational purposes only.
+
+This repositoty is a "remastered" version of the original creator[imdadahad](https://github.com/imdadahad/automate-youtube-to-mp3-with-python) that is no longer working properly.
+All the credit go to him and I only fixed the original script.
